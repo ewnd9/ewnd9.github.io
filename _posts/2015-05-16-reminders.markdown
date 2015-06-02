@@ -38,3 +38,13 @@ categories:
 # Linux
 
 `sudo usermod -a -G group user` existing user to existing group
+
+`sudo lsof -i:3000` show process using 3000 port
+# node.js
+
+## npm install -g without sudo
+
+`npm config set prefix '~/.npm-packages'`
+
+`export PATH="$PATH:$HOME/.npm-packages/bin"`
+
