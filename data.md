@@ -40,6 +40,8 @@ permalink: /data/
 
 `sudo lsof -i:3000` show process using 3000 port
 
+`https://github.com/chjj/ttystudio` for gif recording
+
 http://askubuntu.com/a/107735 gif screencast business
 
 # Android
