@@ -2,4 +2,7 @@
 
 ```
 $ jekyll serve
+
+# create post
+$ TITLE=links-2 rake post
 ```
